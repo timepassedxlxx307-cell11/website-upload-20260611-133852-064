@@ -1,0 +1,10 @@
+{
+  "movie_count": 2000,
+  "html_count": 2015,
+  "detail_count": 2000,
+  "category_count": 10,
+  "category_linked_count": 2000,
+  "baidu_missing": [],
+  "jpg_count": 0,
+  "zip_path": "/mnt/data/static_movie_site_complete.zip"
+}
